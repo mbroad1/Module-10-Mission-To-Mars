@@ -2,4 +2,7 @@
 Practice.ipynb
 
 # Ignore pycache
-/__pycache__
+__pycache__/
+
+# Ignore environment
+venv/
