@@ -6,3 +6,6 @@ __pycache__/
 
 # Ignore environment
 venv/
+
+# Ignore templates
+templates/
