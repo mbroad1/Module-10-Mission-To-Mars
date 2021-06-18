@@ -1,2 +1,5 @@
 # Ignore this Practice file
 Practice.ipynb
+
+# Ignore pycache
+/__pycache__/
